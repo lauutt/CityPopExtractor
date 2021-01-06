@@ -3,7 +3,7 @@ import shutil
 import zipfile
 import rarfile
 
-directory = 'download/'
+directory = 'downloads/'
 temporary = 'tmp/'
 music_directory = 'music/'
 files = os.listdir(directory)
