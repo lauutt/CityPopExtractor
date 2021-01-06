@@ -2,8 +2,8 @@
 
 Massive-extractor is a simple script to automatically unrar and unzip old japanese albums from JPOP80ss2. 
 
-  - Create an empty folder and put this script inside of it.
-  - Create a subfolder called 'download' and copy/download all your albums there. 
+  - Put this script inside of an empty folder.
+  - Copy/download all your albums .rar albums to 'downloads' folder. 
   - Execute this script direct from console and look for your music in the newly created folder 'music'. 
   
 
